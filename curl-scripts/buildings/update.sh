@@ -3,7 +3,7 @@
 API="http://localhost:4741"
 URL_PATH="/buildings"
 
-# API="http://localhost:4741" URL_PATH="/buildings" ID="6081de7170a6df2087fa6ae0" TOKEN="5ef63dc60cbc843e7e4a8a65d2585fa2" NAME="Chrysler Building" CITY="New York City" RATING="97" OWNER="60807ef8d8ada40de100bd63" sh curl-scripts/buildings/update.sh
+# API="http://localhost:4741" URL_PATH="/buildings" ID="60870267e93c5c5a8255d8ee" TOKEN="59e56bb49f188e331921680afe0db909" NAME="Igloo" CITY="Snow Town" RATING="80" OWNER="608317dc6298e73621ecdcac" sh curl-scripts/buildings/update.sh
 
 curl "${API}${URL_PATH}/${ID}" \
   --include \

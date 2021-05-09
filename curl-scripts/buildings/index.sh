@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# API="http://localhost:4741" URL_PATH="/buildings" TOKEN="5ef63dc60cbc843e7e4a8a65d2585fa2" sh curl-scripts/buildings/index.sh
+# API="http://localhost:4741" URL_PATH="/buildings" TOKEN="899feb540a513b532722816e9947136b" sh curl-scripts/buildings/index.sh
 
 API="http://localhost:4741"
 URL_PATH="/buildings"

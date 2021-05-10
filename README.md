@@ -1,6 +1,5 @@
 
-# The Built World
-# the-built-world
+# The Built World (the-built-world-API)
 
 A site to rate your favorite buildings!
 
@@ -18,6 +17,7 @@ https://whimsical.com/erd-LYvHFMUy8bh5R85LsbZbYj
 
 ## Notes
 
-Used Express template
-CRUD actions all fleshed
-Updated Sign-up in user_routes so that it auto-signed you in
+### General
+Used Express template,
+Focused on CRUD actions,
+Updated 'sign-up' in 'user_routes' so that user would be auto-signed in
